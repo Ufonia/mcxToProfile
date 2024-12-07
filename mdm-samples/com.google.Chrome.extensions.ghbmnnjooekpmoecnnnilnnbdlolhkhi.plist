@@ -1,0 +1,12 @@
+<plist version="1.0">
+  <dict>
+    <key>allowedDocsOfflineDomains</key>
+    <array>
+      <string>ufonia.com</string>
+    </array>
+    <key>autoEnabledDocsOfflineDomains</key>
+    <array>
+      <string>ufonia.com</string>
+    </array>
+  </dict>
+</plist>

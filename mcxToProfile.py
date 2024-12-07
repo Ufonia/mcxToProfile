@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!python
 
 # mcxToProfile.py
 # Simple utility to assist with creating Custom Settings Configuration Profiles
